@@ -38,6 +38,9 @@ different input serial data patterns and observe the timing diagrams.
 
 Developed by: Sanjit A RegisterNumber: 24005054
 
+![image](https://github.com/user-attachments/assets/3444cc48-197a-4502-bd47-0b264d0f33bd)
+
+
 */
 
 Truth Table:
@@ -47,9 +50,13 @@ Truth Table:
 
 **RTL LOGIC FOR SISO Shift Register**
 
+![image](https://github.com/user-attachments/assets/5da79204-dd66-447d-a56a-30cbc305cd69)
+
+
 **TIMING DIGRAMS FOR SISO Shift Register**
 
-![image](https://github.com/user-attachments/assets/833fd200-3755-43c2-97a5-3335c56966b6)
+![image](https://github.com/user-attachments/assets/b5341fb7-4a22-492a-a7c8-6d2460f0bf5d)
+
 
 
 **RESULTS**
